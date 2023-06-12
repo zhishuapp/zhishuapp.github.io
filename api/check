@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "version": {
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "size": 10000,
+      "desc": "完成基本功能",
+      "url": "https://zhishu.sososdk.com"
+    }
+  }
+}

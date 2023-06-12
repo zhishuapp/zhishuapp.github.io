@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "庞中华钢笔字体",
+      "previewUrl": "../static/fonts/庞中华钢笔字体/preview.png",
+      "fontUrl": "../static/fonts/庞中华钢笔字体/asset.ttf"
+    },
+    {
+      "name": "方正楷体(拼音)",
+      "previewUrl": "../static/fonts/方正楷体(拼音)/preview.png",
+      "fontUrl": "../static/fonts/方正楷体(拼音)/asset.ttf"
+    }
+  ]
+}
