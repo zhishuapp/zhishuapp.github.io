@@ -1,0 +1,34 @@
+[
+  {
+    "name": "水墨画(剑客)",
+    "composes": [
+      {
+        "config": {
+          "asset": "../static/backgrounds/水墨画(剑客)/asset.png",
+          "opacity": 0.15,
+          "fit": "fitHeight",
+          "alignment": {
+            "x": -1.0,
+            "y": 1.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "梅花",
+    "composes": [
+      {
+        "config": {
+          "asset": "../static/backgrounds/梅花/asset.png",
+          "opacity": 0.25,
+          "fit": "contain",
+          "alignment": {
+            "x": 1.0,
+            "y": -1.0
+          }
+        }
+      }
+    ]
+  }
+]
