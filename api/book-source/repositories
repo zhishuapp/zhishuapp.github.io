@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/open-book-source/booksource/main/repository.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/open-book-source/booksource/main/repository.json",
       "author": "Open Book Source",
       "homepage": "https://github.com/open-book-source/booksource"
     },
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/open-book-source/booksource-third-party/main/repository.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/open-book-source/booksource-third-party/main/repository.json",
       "author": "Open Book Source Third Party",
       "homepage": "https://github.com/open-book-source/booksource-third-party"
     }
