@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>知书 Blog</title>
-        <link>https://zhishu-api.github.io/blog</link>
+        <link>https://zhishuapp.github.io/blog</link>
         <description>知书 Blog</description>
         <lastBuildDate>Thu, 05 Sep 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome Docusaurus v2]]></title>
-            <link>https://zhishu-api.github.io/blog/welcome-docusaurus-v2</link>
-            <guid>https://zhishu-api.github.io/blog/welcome-docusaurus-v2</guid>
+            <link>https://zhishuapp.github.io/blog/welcome-docusaurus-v2</link>
+            <guid>https://zhishuapp.github.io/blog/welcome-docusaurus-v2</guid>
             <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
             <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/zh-CN" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p><p>This is my first post on Docusaurus 2.</p><p>A whole bunch of exploration to follow.</p>]]></content:encoded>
