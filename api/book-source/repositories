@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "url": "https://gh.sososdk.com/https://raw.githubusercontent.com/open-source-scripts/booksource/main/repository.json",
+      "url": "https://gh.sososdk.com/https://raw.githubusercontent.com/open-source-scripts/book-scripts/main/repository.json",
       "author": "Open Book Source",
-      "homepage": "https://github.com/open-book-source/booksource"
+      "homepage": "https://github.com/open-source-scripts/book-scripts"
     },
     {
-      "url": "https://gh.sososdk.com/https://raw.githubusercontent.com/open-source-scripts/booksource-third-party/main/repository.json",
+      "url": "https://gh.sososdk.com/https://raw.githubusercontent.com/open-source-scripts/book-scripts-third-party/main/repository.json",
       "author": "Open Book Source Third Party",
-      "homepage": "https://github.com/open-book-source/booksource-third-party"
+      "homepage": "https://github.com/open-source-scripts/book-scripts-third-party"
     }
   ]
 }
