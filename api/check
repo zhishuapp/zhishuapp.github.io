@@ -1,5 +1,11 @@
 {
   "code": 0,
   "message": "success",
-  "data": {}
+  "data": {
+    "version": {
+      "version": "1.0.0-alpha.3+4",
+      "url": "https://github.com/zhishuapp/zhishuapp.github.io/releases/tag/v1.0.0-alpha.3%2B4",
+      "desc": "- 添加 epub 电子书支持\n- 修复 bugs\n- 优化体验"
+    }
+  }
 }
