@@ -2,23 +2,23 @@
   "data": [
     {
       "name": "仓耳今楷",
-      "preview": "../static/fonts/仓耳今楷/preview.png",
-      "asset": "../static/fonts/仓耳今楷/asset.ttf"
+      "preview": "https://zhishu-static.sososdk.com/app/reader/fonts/仓耳今楷/preview.png",
+      "asset": "https://zhishu-static.sososdk.com/app/reader/fonts/仓耳今楷/asset.ttf"
     },
     {
       "name": "方正楷体(拼音)",
-      "preview": "../static/fonts/方正楷体(拼音)/preview.png",
-      "asset": "../static/fonts/方正楷体(拼音)/asset.ttf"
+      "preview": "https://zhishu-static.sososdk.com/app/reader/fonts/方正楷体(拼音)/preview.png",
+      "asset": "https://zhishu-static.sososdk.com/app/reader/fonts/方正楷体(拼音)/asset.ttf"
     },
     {
       "name": "羿创小隶书",
-      "preview": "../static/fonts/羿创小隶书/preview.png",
-      "asset": "../static/fonts/羿创小隶书/asset.ttf"
+      "preview": "https://zhishu-static.sososdk.com/app/reader/fonts/羿创小隶书/preview.png",
+      "asset": "https://zhishu-static.sososdk.com/app/reader/fonts/羿创小隶书/asset.ttf"
     },
     {
       "name": "腾祥伯当行楷",
-      "preview": "../static/fonts/腾祥伯当行楷/preview.png",
-      "asset": "../static/fonts/腾祥伯当行楷/asset.ttf"
+      "preview": "https://zhishu-static.sososdk.com/app/reader/fonts/腾祥伯当行楷/preview.png",
+      "asset": "https://zhishu-static.sososdk.com/app/reader/fonts/腾祥伯当行楷/asset.ttf"
     }
   ]
 }

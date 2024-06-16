@@ -5,7 +5,7 @@
       "composes": [
         {
           "defaultConfig": {
-            "asset": "../static/backgrounds/水墨画(剑客)/asset.png",
+            "asset": "https://zhishu-static.sososdk.com/app/reader/backgrounds/水墨画(剑客)/asset.png",
             "opacity": 0.15,
             "fit": "fitHeight",
             "alignment": {
@@ -21,7 +21,7 @@
       "composes": [
         {
           "defaultConfig": {
-            "asset": "../static/backgrounds/梅花/asset.png",
+            "asset": "https://zhishu-static.sososdk.com/app/reader/backgrounds/梅花/asset.png",
             "opacity": 0.25,
             "fit": "contain",
             "alignment": {
